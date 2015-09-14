@@ -1,2 +1,0 @@
-# EarthWithBunpMappingTextures
-EarthWithBunpMappingTextures_SolarSystem
